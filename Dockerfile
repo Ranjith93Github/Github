@@ -1,3 +1,3 @@
-FROM python 3.10
+FROM python 3.9
 
 CMD python manage.py runserver
